@@ -25,14 +25,14 @@ export const siteConfig = {
     {
       name: "The UN Cybercrime Convention",
       description:
-        "Published analysis on why the UN Cybercrime Convention is necessary but the law still lags behind cybercriminals. Binding Hook, 2025.",
+        "Published analysis on why the UN Cybercrime Convention is necessary but the law still lags behind cybercriminals. Co-authored with Prof. Richard Harknett. Binding Hook, 2026.",
       link: "https://bindinghook.com/the-un-cybercrime-convention-is-necessary-but-the-law-still-lags-behind-cybercriminals/",
       skills: ["Cybercrime", "International Law", "Policy Analysis"],
     },
     {
       name: "Justice by Algorithm: Fairness or Flaw?",
       description:
-        "Exploration of algorithmic justice, examining fairness concerns in AI-driven legal systems. Polemics Magazine, 2024.",
+        "Exploration of algorithmic justice, examining fairness concerns in AI-driven legal systems. Polemics Magazine, Volume XVII, 2025.",
       link: "https://www.polemics-magazine.com/tech-env/justice-by-algorithm-fairness-or-flaw",
       skills: ["AI & Law", "Digital Justice", "Legal Research"],
     },
@@ -57,6 +57,15 @@ export const siteConfig = {
       ],
     },
     {
+      company: "United Nations Office on Drugs and Crime (UNODC)",
+      title: "Consultant (Short-term Assignment)",
+      dateRange: "Jan 2020 - Mar 2020",
+      bullets: [
+        "Coordinated and prepared materials for workshops with Peruvian authorities on forced labor",
+        "Drafted outcome reports identifying key gaps and actions to strengthen enforcement",
+      ],
+    },
+    {
       company: "Empresa Municipal de Mercados (EMMSA)",
       title: "Legal Advisor",
       dateRange: "Feb 2020 - Jun 2021",
@@ -74,6 +83,15 @@ export const siteConfig = {
         "Drafted and negotiated contracts with clients, suppliers, and subcontractors ensuring legal compliance",
         "Coordinated with public authorities to obtain permits and approvals for construction projects",
         "Developed standardized templates and internal trackers improving document management efficiency",
+      ],
+    },
+    {
+      company: "Grupo ATV S.A.",
+      title: "Legal Intern",
+      dateRange: "Feb 2016 - May 2016",
+      bullets: [
+        "Assisted in drafting and responding to notarial letters related to broadcasting programs",
+        "Supported contract review for a major Peruvian media and broadcasting company",
       ],
     },
     {
